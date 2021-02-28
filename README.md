@@ -1,11 +1,11 @@
 # Conway's Game of Life algorithm realisation in SFML
 
-# Info:
+**Info:**
 
-Algorithm: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
-SFML Lib: https://www.sfml-dev.org/
+**Algorithm**: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+**SFML Lib**: https://www.sfml-dev.org/
 
-# Keymaps:
+**Keymaps:**
 
-Arrow Keys: Camera moving
-+/-: Camera zoom-in/zoom-out
+**Arrow Keys**: Camera moving
+**+/-**: Camera zoom-in/zoom-out
