@@ -2,10 +2,10 @@
 
 **Info:**
 
-**Algorithm**: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+**Algorithm**: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life              
 **SFML Lib**: https://www.sfml-dev.org/
 
 **Keymaps:**
 
-**Arrow Keys**: Camera moving
+**Arrow Keys**: Camera moving                        
 **+/-**: Camera zoom-in/zoom-out
